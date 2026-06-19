@@ -1,0 +1,27 @@
+# Python Caching
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Deep Learning weights (Heavy binary files)
+*.pth
+*.onnx
+
+# Media / Videos / Logs
+*.mp4
+*.avi
+*.mkv
+*.log
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

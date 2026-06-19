@@ -1,0 +1,7 @@
+numpy
+opencv-python
+onnx
+onnxruntime
+pyserial
+torch
+torchvision
